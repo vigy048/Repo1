@@ -1,0 +1,12 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 6832-9635
+
+ Directory of C:\Users\Vigy0\Documents\Demo
+
+10-05-2023  16:13    <DIR>          .
+10-05-2023  16:13    <DIR>          ..
+10-05-2023  15:57                13 config.txt
+10-05-2023  15:56               393 test.xlsx
+10-05-2023  16:13                 0 testing.txt
+               3 File(s)            406 bytes
+               2 Dir(s)  49,991,421,952 bytes free
